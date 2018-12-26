@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Atlantis Docs'
-copyright = u'2018, Quantela Inc'
+project = u'Atlantis'
+copyright = u'2019, Quantela Inc'
 author = u'Quantela Inc'
 
 # The short X.Y version
@@ -144,7 +144,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'atlantisdocs', u'Atlantis Docs Documentation',
+    (master_doc, 'atlantisdocs', u'Atlantis Documentation',
      [author], 1)
 ]
 
@@ -155,7 +155,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'AtlantisDocs', u'Atlantis Docs Documentation',
+    (master_doc, 'AtlantisDocs', u'Atlantis Documentation',
      author, 'AtlantisDocs', 'One line description of project.',
      'Miscellaneous'),
 ]
