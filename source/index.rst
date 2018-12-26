@@ -1,26 +1,26 @@
+***********************
 Atlantis: Documentation
-=======================
+***********************
 `Atlantis`_ documentation is intended for the users and developers of the Atlantis Platform.
 
 This documentation is *constantly updated*
+.. _Read the docs: http://atlantisdocs.readthedocs.org/
 
-What is Atlantis?
-    Atlantis is a purposely-built smartcity platform, the platform incorporates best practices and learnings from implementing multiple cities across the globe. The platform enables you to rapidly build and deploy smartcity solutions in a secure fashion.
-
+Atlantis Platform
+=================
+Atlantis is a purposely-built smartcity platform, the platform incorporates best practices and learnings from implementing multiple cities across the globe. The platform enables you to rapidly build and deploy smartcity solutions in a secure fashion.
 
 How does it help cities transform to smartcities ?
- The platform simplifies the key aspects related to the digital transformation of cities from data acquisition to the citizen engagement.
+--------------------------------------------------
+The platform simplifies the key aspects related to the digital transformation of cities from data acquisition to the citizen engagement.
 
- Some of the key highlights of the platform are:-
+*Some of the key capabilities of the platform:-*
 
- * Connect and Harvest the data from multiple digital assets such as: IOT Sensors, IT, OT and Open Dataset into City Data Platforms
- * Drive key informational insights and utilize it to drive city operations and SOPs in an autonomous fashion using AI and other best practices
- * Measure and Track key operational and performance metrics
- * Provide recommendations and insights to help in better urban planning, improving the efficiency and effectiveness of the urban operations and reduce the operational costs
- * Engage citizen feedback and make urban services more accessible to citizens
- 
-
-.. _Read the docs: http://atlantisdocs,readthedocs.org/
+* Connect and harvest the data from multiple digital assets like IOT Sensors, IT, OT (Scada) and opendata into the city data platform
+* Use informational insights to drive city operations in an autonomous fashion using Atlantis `Automation Engine`_ and `Recommendation Engine`_
+* Measure and track key operational and performance metrics
+* Provides recommendations and insights to help in better urban planning, improving the efficiency & effectiveness of the urban operations while reducing the operational costs
+* Engage citizen feedback and make urban services more accessible to citizens
 
 
 First steps
@@ -39,7 +39,7 @@ to help you create fantastic documentation for your project.
   :doc:`Import guide <intro/import-guide>`
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :hidden:
    :caption: First Steps
 

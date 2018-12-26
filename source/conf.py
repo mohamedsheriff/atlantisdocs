@@ -97,7 +97,7 @@ html_theme_options = {
     'style_external_links': False,
     'vcs_pageview_mode': '',
     # Toc options
-    'collapse_navigation': True,
+    'collapse_navigation': false,
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
@@ -123,7 +123,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'AtlantisDocsdoc'
+htmlhelp_basename = 'Atlantisdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
