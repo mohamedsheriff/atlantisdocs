@@ -48,7 +48,6 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
-    'sphinxcontrib.httpdomain',
 ]
 # Do not warn about external images (status badges in README.rst)
 suppress_warnings = ['image.nonlocal_uri']
