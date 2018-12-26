@@ -22,30 +22,15 @@ The platform simplifies the key aspects related to the digital transformation of
 * Provides recommendations and insights to help in better urban planning, improving the efficiency & effectiveness of the urban operations while reducing the operational costs
 * Engage citizen feedback and make urban services more accessible to citizens
 
-
-First steps
------------
-
-Are you new to software documentation
-or are you looking to use your existing docs with Read the Docs?
-Learn about documentation authoring tools such as Sphinx and MkDocs
-to help you create fantastic documentation for your project.
-
-* **Getting started**:
-  :doc:`With Sphinx <intro/getting-started-with-sphinx>` |
-  :doc:`With MkDocs <intro/getting-started-with-mkdocs>`
-
-* **Importing your existing documentation**:
-  :doc:`Import guide <intro/import-guide>`
+.. _intro-docs:
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :hidden:
-   :caption: First Steps
+   :caption: Introduction
 
-   intro/getting-started-with-sphinx
-   intro/getting-started-with-mkdocs
-   intro/import-guide
+   intro/overview
+   intro/usecases
 
 
 .. _user-docs:
@@ -57,13 +42,8 @@ to help you create fantastic documentation for your project.
    versions
    builds
    features
-   connected-accounts
    support
    faq
-   yaml-config
-   guides/index
-   api/index
-   embed
 
 .. _feature-docs:
 
@@ -86,25 +66,6 @@ to help you create fantastic documentation for your project.
    automatic-redirects
    features/*
 
-.. _about-docs:
-
-.. toctree::
-   :maxdepth: 1
-   :caption: About Read the Docs
-
-   contribute
-   roadmap
-   team
-   gsoc
-   code-of-conduct
-   privacy-policy
-   advertising/index
-   sponsors
-   open-source-philosophy
-   story
-   abandoned-projects
-   dmca/index
-
 .. _dev-docs:
 
 .. toctree::
@@ -125,19 +86,3 @@ to help you create fantastic documentation for your project.
    security
    design
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
-
-.. _commercial-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Commercial Documentation
-
-   commercial/index
-
-.. _custom-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Custom Install Documentation
-
-   custom_installs/index
