@@ -1,10 +1,9 @@
 ***********************
 Atlantis: Documentation
 ***********************
-`Atlantis`_ documentation is intended for the users and developers of the Atlantis Platform.
+Atlantis documentation is intended for the users and developers of the Atlantis Platform.
 
 This documentation is *constantly updated*
-.. _Read the docs: http://atlantisdocs.readthedocs.org/
 
 Atlantis Platform
 =================
