@@ -1,6 +1,3 @@
----
-description: SSS
----
 
 # Atlantis Documentation
 
