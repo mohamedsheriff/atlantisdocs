@@ -31,6 +31,7 @@ The platform simplifies the key aspects related to the digital transformation of
 
    intro/overview
    intro/usecases
+   RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
 
 
 .. _user-docs:
@@ -44,6 +45,7 @@ The platform simplifies the key aspects related to the digital transformation of
    features
    support
    faq
+   RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
 
 .. _feature-docs:
 
@@ -64,6 +66,7 @@ The platform simplifies the key aspects related to the digital transformation of
    privacy
    user-defined-redirects
    automatic-redirects
+   RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
    features/*
 
 .. _dev-docs:
