@@ -1,2 +1,2 @@
-# atlantisdocs
+# Atlantis Documentation
 atlantis documentation
