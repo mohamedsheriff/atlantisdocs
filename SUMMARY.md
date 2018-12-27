@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Atlantis Documentation](README.md)
+* [Getting Started](README.md)
 
 ## Introduction
 
