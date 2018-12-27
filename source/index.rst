@@ -1,5 +1,5 @@
 ***********************
-Atlantis: Documentation
+Atlantis: Documentation - 1.0
 ***********************
 `Atlantis`_ documentation is intended for the users and developers of the Atlantis Platform.
 
