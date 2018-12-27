@@ -1,10 +1,6 @@
----
-description: >-
-  Atlantis documentation is intended for the users and developers of the
-  Atlantis Platform.
----
 
 # Atlantis Documentation
+Atlantis documentation is intended for the users and developers of the
 
 ## Getting Super Powers
 
