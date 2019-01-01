@@ -28,12 +28,6 @@ The platform simplifies the key aspects related to the digital transformation of
     :align: center
     :height: 400px
     :alt: Atlantis Platform
-
-.. figure:: ../source/images/Atlantis_Platform.png
-    :align: right
-    :figwidth: 300px
-    :target: ../source/images/Atlantis_Platform.png
-    
     
 .. _intro-docs:
 
