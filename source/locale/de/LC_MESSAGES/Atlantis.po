@@ -10,12 +10,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-01 19:54+0530\n"
 "PO-Revision-Date: 2019-01-01 19:54+0530\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: SATISH\n"
+"Language-Team: Quantela\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #: ../../source/Atlantis.rst:5
 msgid "Atlantis"
@@ -37,7 +41,7 @@ msgstr "Verbinden Sie und sammeln Sie die Daten von mehreren digitalen Assets wi
 msgid ""
 "Use informational insights to drive city operations in an autonomous "
 "fashion using :ref:`Automation Engine`  and :ref:`Recommendation Engine`"
-msgstr "Nutzen Sie informative Einblicke, um den Stadtbetrieb auf autonome Weise zu steuern, indem Sie: ref: `Automation Engine 'und: ref:` Recommendation Engine` verwenden"
+msgstr "Nutzen Sie informative Einblicke, um den Stadtbetrieb auf autonome Weise zu steuern, indem Sie :ref:`Automation Engine` und :ref:`Recommendation Engine` verwenden"
 
 #: ../../source/Atlantis.rst:11
 msgid "Measure and track key operational and performance metrics"

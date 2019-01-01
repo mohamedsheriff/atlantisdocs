@@ -10,12 +10,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-01 19:54+0530\n"
 "PO-Revision-Date: 2019-01-01 19:54+0530\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: SATISH\n"
+"Language-Team: Quantela\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #: ../../source/index.rst:3
 msgid "Atlantis: Documentation"
@@ -25,13 +29,13 @@ msgstr "Atlantis: Dokumentation"
 msgid ""
 ":ref:`Atlantis` documentation is intended for the users and developers of"
 " the Atlantis Platform."
-msgstr ": ref: `Atlantis`-Dokumentation richtet sich an Benutzer und Entwickler der Atlantis-Plattform."
+msgstr ":ref:`Atlantis` Dokumentation richtet sich an Benutzer und Entwickler der Atlantis Plattform."
 
 #: ../../source/index.rst:6
 msgid ""
 "This documentation is *constantly updated* `Read the docs "
 "<http://atlantisdocs.readthedocs.org/>`_"
-msgstr "Diese Dokumentation wird * ständig aktualisiert * `Lesen Sie die Dokumente <http://atlantisdocs.readthedocs.org/>` _"
+msgstr "Diese Dokumentation wird *ständig aktualisiert* `Lesen Sie die Dokumente<http://atlantisdocs.readthedocs.org/>`_"
 
 #: ../../source/index.rst:10
 msgid "Atlantis Platform"
@@ -57,7 +61,7 @@ msgstr "Die Plattform vereinfacht die wichtigsten Aspekte der digitalen Transfor
 
 #: ../../source/index.rst:18
 msgid "*Some of the key capabilities of the platform:-*"
-msgstr "* Einige der wichtigsten Funktionen der Plattform: - *"
+msgstr "*Einige der wichtigsten Funktionen der Plattform:-*"
 
 #: ../../source/index.rst:20
 msgid ""
@@ -69,7 +73,7 @@ msgstr "Verbinden Sie und sammeln Sie die Daten von mehreren digitalen Assets wi
 msgid ""
 "Use informational insights to drive city operations in an autonomous "
 "fashion using :ref:`Automation Engine`  and :ref:`Recommendation Engine`"
-msgstr "Nutzen Sie informative Einblicke, um den Stadtbetrieb auf autonome Weise zu steuern, indem Sie: ref: `Automation Engine 'und: ref:` Recommendation Engine` verwenden"
+msgstr "Nutzen Sie informative Einblicke, um den Stadtbetrieb auf autonome Weise zu steuern, indem Sie :ref:`Automation Engine` und :ref:`Recommendation Engine` verwenden"
 
 #: ../../source/index.rst:22
 msgid "Measure and track key operational and performance metrics"

@@ -3,30 +3,29 @@
 # This file is distributed under the same license as the Atlantis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Atlantis \n"
+"Project-Id-Version: Atlantis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-01 19:54+0530\n"
-"PO-Revision-Date: 2019-01-01 19:54+0530\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-02 01:09+0530\n"
+"Last-Translator: SATISH\n"
+"Language-Team: Quantela\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #: ../../source/RecommendationEngine.rst:5
 msgid "Recommendation Engine"
-msgstr "Empfehlung Engine"
+msgstr "Recommendation Engine"
 
 #: ../../source/RecommendationEngine.rst:7
-msgid ""
-"Atlantis Recommendation engine is a AI based platform for urban planner "
-"and decision makers. The platform provides over 65+ urban analytics as "
-"webservice with inbuilt training life cycle covering near realtime "
-"training, imputations and predictions."
+msgid "Atlantis Recommendation engine is a AI based platform for urban planner and decision makers. The platform provides over 65+ urban analytics as webservice with inbuilt training life cycle covering near realtime training, imputations and predictions."
 msgstr "Atlantis Recommendation Engine ist eine KI-basierte Plattform für Stadtplaner und Entscheidungsträger. Die Plattform bietet über 65 städtische Analysen als Webservice mit integriertem Schulungszyklus für Echtzeitschulungen, Imputationen und Vorhersagen."
 
 #: ../../source/RecommendationEngine.rst:11
@@ -34,69 +33,47 @@ msgid "Urban Indicators"
 msgstr "Städtische Indikatoren"
 
 #: ../../source/RecommendationEngine.rst:12
-msgid ""
-"Helps city planners to understand city at macrolevel and helps in aiding "
-"planning decisions. The models are based on analysis “Satellite” and "
-"“Drone” Imagery. Some of the key indicators are “urban vegetation”, "
-"“urban sprawl”, “underground water propensity”, “land use and land cover "
-"analysis”, “suitability analytics”"
-msgstr "Hilft Stadtplanern dabei, die Stadt auf Makrolevel zu verstehen, und hilft bei der Entscheidungsfindung. Die Modelle basieren auf den Analysebildern "Satellite" und "Drone". Einige der Schlüsselindikatoren sind "Stadtvegetation", "Zersiedelung", "Untergrundwasserneigung", "Landnutzungs- und Bodenbedeckungsanalyse", "Eignungsanalytik"."
+msgid "Helps city planners to understand city at macrolevel and helps in aiding planning decisions. The models are based on analysis “Satellite” and “Drone” Imagery. Some of the key indicators are “urban vegetation”, “urban sprawl”, “underground water propensity”, “land use and land cover analysis”, “suitability analytics”"
+msgstr ""
+"Hilft Stadtplanern dabei, die Stadt auf Makrolevel zu verstehen, und hilft bei der Entscheidungsfindung. Die Modelle basieren auf der Analyse von Satelliten- und Drohnenbildern. Einige der Schlüsselindikatoren sind städtische Vegetation, Zersiedelung, Untergrundwasserneigung, Landnutzungs- und Bodenbedeckungsanalyse, "
+"Eignungsanalyse"
 
 #: ../../source/RecommendationEngine.rst:16
 msgid "Predictive Analytics"
-msgstr "Predictive Analytics"
+msgstr "Prädikative Analytisch"
 
 #: ../../source/RecommendationEngine.rst:17
-msgid ""
-"Use data from sensors, IT and open data sources to forecast and predict "
-"future state. Some key models are “Parking Occupancy Forecasting”, "
-"“Environment prediction”,“Smart bit fill level predictions”, “Traffic "
-"Congestion Predication”"
-msgstr "Verwenden Sie Daten von Sensoren, IT und offenen Datenquellen, um den zukünftigen Status vorherzusagen und vorherzusagen. Einige Schlüsselmodelle sind "Vorhersage der Parkauslastung", "Umgebungsvorhersage", "Vorhersagen für den Füllstand des Smart-Bits", "Vorhersage der Verkehrsstau"."
+msgid "Use data from sensors, IT and open data sources to forecast and predict future state. Some key models are “Parking Occupancy Forecasting”, “Environment prediction”,“Smart bit fill level predictions”, “Traffic Congestion Predication”"
+msgstr "Verwenden Sie Daten von Sensoren, IT und offenen Datenquellen, um den zukünftigen Status vorherzusagen und vorherzusagen. Einige Schlüsselmodelle sind \"Vorhersage der Parkauslastung\", \"Umgebungsvorhersage\", \"Vorhersagen für den Füllstand des Smart-Bits\", \"Vorhersage der Verkehrsstau\"."
 
 #: ../../source/RecommendationEngine.rst:21
 msgid "Prescriptive Analytics"
-msgstr "Prescriptive Analytics"
+msgstr "Präskriptiv Analytisch"
 
 #: ../../source/RecommendationEngine.rst:22
-msgid ""
-"The models recommend action to be taken for optimizing city operations. "
-"Some of the models are “optimized lighting policies”, “Traffic hotspot "
-"analysis”, “route optimizations”"
-msgstr "Die Modelle empfehlen Maßnahmen zur Optimierung des Stadtbetriebs. Einige Modelle sind "optimierte Beleuchtungsrichtlinien", "Analyse von Verkehrsherden", "Routenoptimierungen"."
+msgid "The models recommend action to be taken for optimizing city operations. Some of the models are “optimized lighting policies”, “Traffic hotspot analysis”, “route optimizations”"
+msgstr "Die Modelle empfehlen Maßnahmen zur Optimierung des Stadtbetriebs. Einige Modelle sind \"optimierte Beleuchtungsrichtlinien\", \"Analyse von Verkehrsherden\", \"Routenoptimierungen\"."
 
 #: ../../source/RecommendationEngine.rst:26
 msgid "Resilient Analytics"
-msgstr "Resilient Analytics"
+msgstr "Belastbar Analytisch"
 
 #: ../../source/RecommendationEngine.rst:27
-msgid ""
-"The models provide potential impact areas and remedial options for urban "
-"resilience like Gas Leakage, Traffic jams, Traffic impact on environment"
+msgid "The models provide potential impact areas and remedial options for urban resilience like Gas Leakage, Traffic jams, Traffic impact on environment"
 msgstr "Die Modelle bieten potenzielle Wirkungsbereiche und Abhilfemöglichkeiten für die Widerstandsfähigkeit der Städte, wie beispielsweise Gasleckage, Staus und Auswirkungen auf die Umwelt"
 
 #: ../../source/RecommendationEngine.rst:31
 msgid "Video Analytics"
-msgstr "Video Analytics"
+msgstr "Video Analytisch"
 
 #: ../../source/RecommendationEngine.rst:32
-msgid ""
-"The models identify safety, security, crowd & traffic incidents & metrics"
-" based on video imagery. Some of the models are “Number Plate "
-"Recognition”, “Intrusion detection”, “Traffic and crowd estimation”, "
-"“Suspicious object detection”, “Cleanliness detection”, “Vandalism "
-"detection”"
-msgstr "Die Modelle identifizieren Sicherheit, Sicherheit, Crowd & Traffic Incidents & Metriken basierend auf Videobildern. Einige Modelle sind "Kennzeichenerkennung", "Eindringlingserkennung", "Verkehrs- und Personenschätzung", "Erkennung verdächtiger Objekte", "Sauberkeitserkennung", "Vandalismuserkennung"."
+msgid "The models identify safety, security, crowd & traffic incidents & metrics based on video imagery. Some of the models are “Number Plate Recognition”, “Intrusion detection”, “Traffic and crowd estimation”, “Suspicious object detection”, “Cleanliness detection”, “Vandalism detection”"
+msgstr "Die Modelle identifizieren Sicherheit, Sicherheit, Crowd & Traffic Incidents & Metriken basierend auf Videobildern. Einige Modelle sind \"Kennzeichenerkennung\", \"Eindringlingserkennung\", \"Verkehrs- und Personenschätzung\", \"Erkennung verdächtiger Objekte\", \"Sauberkeitserkennung\", \"Vandalismuserkennung\"."
 
 #: ../../source/RecommendationEngine.rst:36
 msgid "Text Analytics"
-msgstr "Textanalytik"
+msgstr "Text Analytisch"
 
 #: ../../source/RecommendationEngine.rst:37
-msgid ""
-"The models are used for classification, sentiment analysis and "
-"conversational interfaces . Some of the key models include citizen "
-"sentiment analysis, citizen grievances classification, social sentiment "
-"analysis and conversational chat interface to city data"
+msgid "The models are used for classification, sentiment analysis and conversational interfaces . Some of the key models include citizen sentiment analysis, citizen grievances classification, social sentiment analysis and conversational chat interface to city data"
 msgstr "Die Modelle werden für die Klassifizierung, Sentiment-Analyse und Gesprächsschnittstellen verwendet. Einige der wichtigsten Modelle umfassen die Analyse der Bürgerstimmung, die Klassifizierung der Bürgerbeschwerden, die Analyse der sozialen Gefühle und die Schnittstelle zu Konversationschat zu Stadtdaten"
-
