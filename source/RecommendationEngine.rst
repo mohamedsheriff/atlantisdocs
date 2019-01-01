@@ -1,8 +1,8 @@
 .. _Recommendation Engine:
 
-******************************
-Atlantis Recommendation Engine
-******************************
+*********************
+Recommendation Engine
+*********************
 
 Atlantis Recommendation engine is a AI based platform for urban planner and decision makers. The platform provides over 65+ urban analytics as webservice with inbuilt training life cycle covering near realtime training, imputations and predictions. 
 
