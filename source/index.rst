@@ -1,7 +1,7 @@
 ***********************
 Atlantis: Documentation
 ***********************
-`Atlantis`_ documentation is intended for the users and developers of the Atlantis Platform.
+:ref:`Atlantis` documentation is intended for the users and developers of the Atlantis Platform.
 
 This documentation is *constantly updated*
 .. _Read the docs: http://atlantisdocs.readthedocs.org/
@@ -18,7 +18,7 @@ The platform simplifies the key aspects related to the digital transformation of
 *Some of the key capabilities of the platform:-*
 
 * Connect and harvest the data from multiple digital assets like IOT Sensors, IT, OT (Scada) and opendata into the city data platform
-* Use informational insights to drive city operations in an autonomous fashion using :ref:`Automation Engine`  and `Recommendation Engine`_
+* Use informational insights to drive city operations in an autonomous fashion using :ref:`Automation Engine`  and :ref:`Recommendation Engine`
 * Measure and track key operational and performance metrics
 * Provides recommendations and insights to help in better urban planning, improving the efficiency & effectiveness of the urban operations while reducing the operational costs
 * Engage citizen feedback and make urban services more accessible to citizens
