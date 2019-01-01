@@ -23,11 +23,11 @@ The platform simplifies the key aspects related to the digital transformation of
 * Provides recommendations and insights to help in better urban planning, improving the efficiency & effectiveness of the urban operations while reducing the operational costs
 * Engage citizen feedback and make urban services more accessible to citizens
 
-.. image:: ../static/Atlantis_Platform.png
-    :width: 200px
+.. image:: ../images/Atlantis_Platform.png
+    :width: 600px
     :align: center
-    :height: 100px
-    :alt: alternate text
+    :height: 400px
+    :alt: Atlantis Platform
 
 .. _intro-docs:
 
@@ -37,7 +37,9 @@ The platform simplifies the key aspects related to the digital transformation of
    :caption: Introduction
 
    intro/overview
-   intro/usecases
+   Atlantis
+   AutomationEngine
+   RecommendationEngine 
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
 
 
