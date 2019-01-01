@@ -1,4 +1,4 @@
-:doc:`Automation Engine`
+.. _Automation Engine:
 
 *****************
 Automation Engine
