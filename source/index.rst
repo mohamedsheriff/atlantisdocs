@@ -23,17 +23,18 @@ The platform simplifies the key aspects related to the digital transformation of
 * Provides recommendations and insights to help in better urban planning, improving the efficiency & effectiveness of the urban operations while reducing the operational costs
 * Engage citizen feedback and make urban services more accessible to citizens
 
-.. image:: ../images/Atlantis_Platform.png
+.. image:: ../source/images/Atlantis_Platform.png
     :width: 600px
     :align: center
     :height: 400px
     :alt: Atlantis Platform
 
-.. figure:: ../images/Atlantis_Platform.png
+.. figure:: ../source/images/Atlantis_Platform.png
     :align: right
     :figwidth: 300px
-    :target: ../images/Atlantis_Platform.png
-
+    :target: ../source/images/Atlantis_Platform.png
+    
+    
 .. _intro-docs:
 
 .. toctree::
