@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Quantela Inc
+# This file is distributed under the same license as the Atlantis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Atlantis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-01 19:54+0530\n"
+"PO-Revision-Date: 2019-01-01 20:30+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.2\n"
+
+#: ../../source/index.rst:3
+msgid "Atlantis: Documentation"
+msgstr "Atlantis: documentación"
+
+#: ../../source/index.rst:4
+msgid ""
+":ref:`Atlantis` documentation is intended for the users and developers "
+"of the Atlantis Platform."
+msgstr ""
+": Ref: la documentación de ' Atlantis ' está destinada a los usuarios y "
+"desarrolladores de la plataforma Atlantis."
+
+#: ../../source/index.rst:6
+msgid ""
+"This documentation is *constantly updated* `Read the docs <http://"
+"atlantisdocs.readthedocs.org/>`_"
+msgstr ""
+"Esta documentación está * constantemente actualizada * ' leer los "
+"documentos < http://atlantisdocs.readthedocs.org/> ' _"
+
+#: ../../source/index.rst:10
+msgid "Atlantis Platform"
+msgstr "Plataforma Atlantis"
+
+#: ../../source/index.rst:11
+msgid ""
+"Atlantis is a purposely-built urban infrastructure decision platform, "
+"the platform incorporates best practices and learnings from implementing "
+"multiple cities across the globe. The platform enables you to rapidly "
+"build and deploy smartcity solutions in a secure fashion."
+msgstr ""
+"Atlantis es una plataforma de decisión de infraestructura urbana "
+"construida a propósito, la plataforma incorpora las mejores prácticas y "
+"los aprendizajes de la implementación de múltiples ciudades en todo el "
+"mundo. La plataforma le permite crear y desplegar rápidamente soluciones "
+"de smartcity de una manera segura."
+
+#: ../../source/index.rst:15
+msgid "How does it help cities transform to smartcities ?"
+msgstr ""
+"¿Cómo ayuda a las ciudades a transformarse en ciudades inteligentes?"
+
+#: ../../source/index.rst:16
+msgid ""
+"The platform simplifies the key aspects related to the digital "
+"transformation of cities from data acquisition to the citizen engagement."
+msgstr ""
+"La plataforma simplifica los aspectos clave relacionados con la "
+"transformación digital de las ciudades desde la adquisición de datos "
+"hasta la participación ciudadana."
+
+#: ../../source/index.rst:18
+msgid "*Some of the key capabilities of the platform:-*"
+msgstr "* Algunas de las capacidades clave de la plataforma: - *"
+
+#: ../../source/index.rst:20
+msgid ""
+"Connect and harvest the data from multiple digital assets like IOT "
+"Sensors, IT, OT (Scada) and opendata into the city data platform"
+msgstr ""
+"Conecte y recopile los datos de múltiples activos digitales como IOT "
+"Sensors, IT, OT (Scada) y opendata en la plataforma de datos de la ciudad"
+
+#: ../../source/index.rst:21
+msgid ""
+"Use informational insights to drive city operations in an autonomous "
+"fashion using :ref:`Automation Engine`  and :ref:`Recommendation Engine`"
+msgstr ""
+"Utilice información informativa para impulsar las operaciones de la "
+"ciudad de manera autónoma utilizando: ref: `Automation Engine` y: ref:` "
+"Recommendation Engine`"
+
+#: ../../source/index.rst:22
+msgid "Measure and track key operational and performance metrics"
+msgstr ""
+"Medir y realizar un seguimiento de las métricas operativas y de "
+"rendimiento clave"
+
+#: ../../source/index.rst:23
+msgid ""
+"Provides recommendations and insights to help in better urban planning, "
+"improving the efficiency & effectiveness of the urban operations while "
+"reducing the operational costs"
+msgstr ""
+"Proporciona recomendaciones y perspectivas para ayudar en una mejor "
+"planificación urbana, mejorando la eficiencia y efectividad de las "
+"operaciones urbanas reduciendo los costos operacionales"
+
+#: ../../source/index.rst:24
+msgid ""
+"Engage citizen feedback and make urban services more accessible to "
+"citizens"
+msgstr ""
+"Atraer la retroalimentación ciudadana y hacer que los servicios urbanos "
+"sean más accesibles para los ciudadanos"
+
+#: ../../source/index.rst:48
+msgid "User Documentation"
+msgstr "Documentación del usuario"
+
+#: ../../source/index.rst:61
+msgid "Feature Documentation"
+msgstr "Documentación de la característica"
+
+#: ../../source/index.rst:83
+msgid "Developer Documentation"
+msgstr "Documentación del desarrollador"
