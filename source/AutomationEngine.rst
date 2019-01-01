@@ -21,12 +21,15 @@ Some of the core capabilities of Automation Engine are:-
         * User management   
         * flexible role based access control system
     * Media Encoding
+        * encode realtime enconding for rtsp steams to webrtc stream to pluginless video display
     * Data platform
         * Flexible data platform for metric aggregation
         * Stream & CEP processing for realtime analytics
         * Metric aggregation for fast access 
     * Platform management
-    * Tenancy management
+        * tenancy management
+        * site managment 
+        * elastic deployment capabilities
     * Centralized logging and telementry
         * Centrailzied logging and telementric collection
         * Log visualization and analysis using ELK 
