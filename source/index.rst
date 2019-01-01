@@ -4,7 +4,7 @@ Atlantis: Documentation
 :ref:`Atlantis` documentation is intended for the users and developers of the Atlantis Platform.
 
 This documentation is *constantly updated*
-.. _Read the docs: http://atlantisdocs.readthedocs.org/
+`Read the docs <http://atlantisdocs.readthedocs.org/>`_
 
 Atlantis Platform
 =================

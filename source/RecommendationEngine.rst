@@ -1,4 +1,4 @@
-.. Recommendation Engine:
+.. _Recommendation Engine:
 
 ******************************
 Atlantis Recommendation Engine
