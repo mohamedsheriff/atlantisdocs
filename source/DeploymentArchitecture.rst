@@ -23,7 +23,7 @@ Deployment Inventory (Non HA)
     * - Server Name
       - Tenancy Usage
       - Infrastructure Components
-      - Role Discreption
+      - Role 
     * - Proxy Server
       - Shared
       - ``(Ngnix)``
