@@ -30,20 +30,20 @@ c) Tenant Dedicated Infastructure: Dedicated to the tenant based on Elastic Comp
 
 Deployment Inventory (Non HA)
 -----------------------------
-* Proxy Server:(Ngnix) -  Route the traffic from outside to inside and inside to inside 
-* API Gateway Server (Node, WS02 Publisher, WS02 Store, WS02 API Manager): API Authentication and API Loadbalancing
-* Dashboard Server (Ngnix, Node, xStreemFS) -  Ngnix based server to host the Angular files
-* Atlantis Core Server: (Node, xStreemFS) - Core API's hosted
-* Atlantis Citizen Server: Node)- For Citizens
-* Atlantis Integeration Engine: (Tomcat,Node) for User Interface & Middleware
-* Atlantis ElasticSearch DB Server: (ElasticSearch 6.3) 
-* WS02 DB Server: (PostgressDB 9.5)
-* Logstash & Kibana Server (Logstash & Kibana 6.3)
-* Atlantis Data Processing Server (Entity Engine) (Kafka, WS02 Stream Processor, Node, Zookeeper, Redis)
-* Atlantis Data Pipeline Server (Abstraction Layer + IE) - (Node,Redis,xStreemFS) 
-* Atlantis Recommendation Core Server (Training and Predict API (Client API)) (Flask, Python 3.6) 
+* Proxy Server:``(Ngnix)`` -  Route the traffic from outside to inside and inside to inside 
+* API Gateway Server ``(Node, WS02 Publisher, WS02 Store, WS02 API Manager)``: API Authentication and API Loadbalancing
+* Dashboard Server ``(Ngnix, Node, xStreemFS)`` -  Ngnix based server to host the Angular files
+* Atlantis Core Server: ``(Node, xStreemFS)`` - Core API's hosted
+* Atlantis Citizen Server: ``(Node)``- For Citizens
+* Atlantis Integeration Engine: ``(Tomcat,Node)`` for User Interface & Middleware
+* Atlantis ElasticSearch DB Server: ``(ElasticSearch 6.3)`` 
+* WS02 DB Server: ``(PostgressDB 9.5)``
+* Logstash & Kibana Server ``(Logstash & Kibana 6.3)``
+* Atlantis Data Processing Server (Entity Engine) ``(Kafka, WS02 Stream Processor, Node, Zookeeper, Redis)``
+* Atlantis Data Pipeline Server (Abstraction Layer + IE) - ``(Node,Redis,xStreemFS)`` 
+* Atlantis Recommendation Core Server (Training and Predict API (Client API)) ``(Flask, Python 3.6)`` 
 * Atlantis Recommndation Datapipeline Server: For Opendata Pipeline (??)
-* Atlantis Media Server (Kurento) 
+* Atlantis Media Server ``(Kurento)`` 
 
 Base Operating System
 ---------------------
