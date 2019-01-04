@@ -41,31 +41,19 @@ The platform simplifies the key aspects related to the digital transformation of
    RecommendationEngine 
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
 
-
-.. _user-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: User Documentation
-
-   features
-   RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
-
-.. _feature-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Feature Documentation
-
-   RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
-   features/*
-
 .. _dev-docs:
 
 .. toctree::
    :maxdepth: 1
    :caption: Developer Documentation
+
+   DeploymentArchitecture
+
+.. help-docs:
+
+.. toctree::
+   :maxdepth: 4
+   :caption: reStructured Help Documentation
 
    DeploymentArchitecture
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
