@@ -39,6 +39,7 @@ The platform simplifies the key aspects related to the digital transformation of
    Atlantis
    AutomationEngine
    RecommendationEngine 
+   DeploymentArchitecture
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
 
 
