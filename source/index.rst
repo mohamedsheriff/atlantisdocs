@@ -55,5 +55,5 @@ The platform simplifies the key aspects related to the digital transformation of
    :maxdepth: 4
    :caption: reStructured Help Documentation
 
-   DeploymentArchitecture
+   ReSTTablesList
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
