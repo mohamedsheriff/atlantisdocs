@@ -32,11 +32,10 @@ The platform simplifies the key aspects related to the digital transformation of
 .. _intro-docs:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
    :caption: Introduction
 
-   intro/overview
    Atlantis
    AutomationEngine
    RecommendationEngine 

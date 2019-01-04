@@ -12,3 +12,4 @@ build/gettext/RecommendationEngine.pot
 build/doctrees/Atlantis.doctree
 *.mo
 source/locale/de/LC_MESSAGES/index.html
+*.mo
