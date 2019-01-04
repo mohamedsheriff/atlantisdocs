@@ -45,7 +45,7 @@ Deployment Inventory (Non HA)
       - ``Node``
       - All the API's realated to citizen application
     * - Atlantis Integration Server
-      - Shared (deploy per tenant)
+      - Shared :sup:`change to per tenant`
       - ``Node`` ``Tomcat``
       - Integration engine web application and middleware apis
     * - ElasticSearch DB Server
@@ -65,7 +65,7 @@ Deployment Inventory (Non HA)
       - ``Kafka`` ``WS02 Stream Processor`` ``Node`` ``Zookeeper`` ``Redis``
       - primary server to process device data & events, SOP processing and primary provider of device (entity) API
     * - Atlantis Datapiple Server (Abstraction Layer + IE 2.0)
-      - Shared (deploy per tenant)
+      - Shared :sup:`change to per tenant`
       - ``Node`` ``xStreemFS`` ``Redis``
       - Primary Server responsible for all datapiple processing for visualization layer (Datasets) and Injection (Adapters) 
     * - Atlantis Media Server
@@ -73,12 +73,12 @@ Deployment Inventory (Non HA)
       - ``Kurento``
       -  Media transcoding server converting RTSP streams to Webrtc streams for plugin-less web viewing of camera live streams
     * - Atlantis Recommendation Core Server
-      - Shared (deploy per tenant)
+      - Shared (change to per  tenant)
       - ``Flask`` ``Python 3.6`` ``Redis``
       -  Responsible for training and providing recommendation engine API
     * - Atlantis Recommendation Data Pipeline Server
-      - Shared (deploy per tenant)
-      - .. Attention:: Determine ??
+      - Shared :sup:`change to per tenant`
+      - .. Attention:: :guilabel:`Please verify`
       -  Responsible for recommendation engine datapipeline
 
 
