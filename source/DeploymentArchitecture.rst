@@ -15,10 +15,10 @@ Deployment Architecture Goals
 Deployment Inventory (Non HA)
 *****************************
 
-.. list-table:: List tables can have captions like this one.
-    :widths: 10 20 40 50
+.. list-table:: List of Servers (No HA mode)
+    :widths: 5 10 20 20
     :header-rows: 1
-    :stub-columns: 1
+    :stub-columns: 0
 
     * - Server Name
       - Tenancy Usage
