@@ -18,7 +18,7 @@ Deployment Inventory (Non HA)
 .. list-table:: List of Servers (No HA mode)
     :widths: 10,10,40,40
     :header-rows: 2
-    :stub-columns: 1
+    :stub-columns: 0
     :align: left
 
     * - Server Name
@@ -79,8 +79,8 @@ Deployment Inventory (Non HA)
       -  Responsible for training and providing recommendation engine API
     * - Atlantis Recommendation Data Pipeline Server
       - Shared :sup:`change to per tenant`
-      - .. Attention:: :guilabel:`Please verify`
-      -  Responsible for recommendation engine datapipeline
+      - :guilabel:`Please verify`
+      - Responsible for recommendation engine datapipeline
 
 
 .. Note:: The current version of Integeration engine would be deprecated by Atlantis 2.0 GA
