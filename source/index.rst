@@ -34,12 +34,11 @@ The platform simplifies the key aspects related to the digital transformation of
 .. toctree::
    :maxdepth: 3
    :hidden:
-   :caption: Introduction
+   :caption: Getting Started
 
    Atlantis
    AutomationEngine
    RecommendationEngine 
-   DeploymentArchitecture
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
 
 
@@ -49,11 +48,7 @@ The platform simplifies the key aspects related to the digital transformation of
    :maxdepth: 2
    :caption: User Documentation
 
-   versions
-   builds
    features
-   support
-   faq
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
 
 .. _feature-docs:
@@ -63,18 +58,6 @@ The platform simplifies the key aspects related to the digital transformation of
    :glob:
    :caption: Feature Documentation
 
-   webhooks
-   badges
-   alternate_domains
-   localization
-   vcs
-   subprojects
-   conda
-   canonical
-   single_version
-   privacy
-   user-defined-redirects
-   automatic-redirects
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
    features/*
 
@@ -84,17 +67,5 @@ The platform simplifies the key aspects related to the digital transformation of
    :maxdepth: 1
    :caption: Developer Documentation
 
-   changelog
-   install
-   architecture
-   tests
-   docs
-   development/standards
-   development/buildenvironments
-   symlinks
-   settings
-   i18n
-   issue-labels
-   security
-   design
+   DeploymentArchitecture
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
