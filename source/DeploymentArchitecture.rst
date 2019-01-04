@@ -16,9 +16,10 @@ Deployment Inventory (Non HA)
 *****************************
 
 .. list-table:: List of Servers (No HA mode)
-    :widths: 5 10 20 20
-    :header-rows: 1
-    :stub-columns: 0
+    :widths: 10,10,40,40
+    :header-rows: 2
+    :stub-columns: 1
+    :align: left
 
     * - Server Name
       - Tenancy Usage
