@@ -38,8 +38,7 @@ The platform simplifies the key aspects related to the digital transformation of
 
    Atlantis
    AutomationEngine
-   RecommendationEngine 
-   RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
+   RecommendationEngine
 
 .. _dev-docs:
 
@@ -53,7 +52,7 @@ The platform simplifies the key aspects related to the digital transformation of
 
 .. toctree::
    :maxdepth: 4
-   :caption: reStructured Help Documentation
+   :caption: Reference Documentation
 
    ReSTTablesList
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>

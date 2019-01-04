@@ -17,13 +17,17 @@ a) Common Infrastructure: Shared by all the tenants
     * WSO2 API Gatway, IAM Servers
     * Logstash & Kibana Server
     * Atlantis Microservices
+    
 b) Common Microservices: Shared All the tenants
     * Atlantis Core Server
     * Atlantis Recommendation Core Server
     * Atalntis Datapipeline Server
     * Atlantis Citizen Server
     * Atlantis Integeration Server (Depricated overtime)
-c) Tenant Dedicated Infastructure: Dedicated to the tenant based on Elastic Compute principles i.e. dedicated data processing
+
+      .. Note:: The current version of Integeration engine would be deprecated by Atlantis 2.0 GA
+
+ c) Tenant Dedicated Infastructure: Dedicated to the tenant based on Elastic Compute principles i.e. dedicated data processing
     * Atlantis Data Procesing Server (Entity Server)
     * Atlantis Data Pipeline Server (Abstraction + IE)
     * Atlantis Media Server
