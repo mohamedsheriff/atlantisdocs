@@ -1,65 +1,104 @@
-************************
+========================
 Deployment Configuration
-************************
+========================
 
-Deployment Architecture Principles 
-==================================
-a) Goal 1: Truely Multi-tenant
-b) Goal 2: High Availability 
-c) Goal 3: Truely Elastic & Scale out for Loadbalancing
-d) Goal 4: Tenancy level SLA gaurantee 
-e) Goal 5: Optimized yet meeting the above goals 
+Deployment Architecture Goals 
+*****************************
 
-Infrastructure Organization
-===========================
-a) Common Infrastructure: Shared by all the tenants
-    * Proxy, Web & Database Servers (Elastic & PostgressDB)
-    * WSO2 API Gatway, IAM Servers
-    * Logstash & Kibana Server
-    * Atlantis Microservices
-    
-b) Common Microservices: Shared All the tenants
-    * Atlantis Core Server
-    * Atlantis Recommendation Core Server
-    * Atalntis Datapipeline Server
-    * Atlantis Citizen Server
-    * Atlantis Integeration Server (Depricated overtime)
+* **Truely Multi-tenant**
+* **High Availability**
+* **Truely Elastic & Scale out for Loadbalancing**
+* **Tenancy level SLA gaurantee** 
+* **Optimized yet meeting the above goals** 
 
-      .. Note:: The current version of Integeration engine would be deprecated by Atlantis 2.0 GA
-
- c) Tenant Dedicated Infastructure: Dedicated to the tenant based on Elastic Compute principles i.e. dedicated data processing
-    * Atlantis Data Procesing Server (Entity Server)
-    * Atlantis Data Pipeline Server (Abstraction + IE)
-    * Atlantis Media Server
 
 Deployment Inventory (Non HA)
------------------------------
-* Proxy Server:``(Ngnix)`` -  Route the traffic from outside to inside and inside to inside 
-* API Gateway Server ``(Node, WS02 Publisher, WS02 Store, WS02 API Manager)``: API Authentication and API Loadbalancing
-* Dashboard Server ``(Ngnix, Node, xStreemFS)`` -  Ngnix based server to host the Angular files
-* Atlantis Core Server: ``(Node, xStreemFS)`` - Core API's hosted
-* Atlantis Citizen Server: ``(Node)``- For Citizens
-* Atlantis Integeration Engine: ``(Tomcat,Node)`` for User Interface & Middleware
-* Atlantis ElasticSearch DB Server: ``(ElasticSearch 6.3)`` 
-* WS02 DB Server: ``(PostgressDB 9.5)``
-* Logstash & Kibana Server ``(Logstash & Kibana 6.3)``
-* Atlantis Data Processing Server (Entity Engine) ``(Kafka, WS02 Stream Processor, Node, Zookeeper, Redis)``
-* Atlantis Data Pipeline Server (Abstraction Layer + IE) - ``(Node,Redis,xStreemFS)`` 
-* Atlantis Recommendation Core Server (Training and Predict API (Client API)) ``(Flask, Python 3.6)`` 
-* Atlantis Recommndation Datapipeline Server: For Opendata Pipeline (??)
-* Atlantis Media Server ``(Kurento)`` 
+*****************************
+
+.. list-table:: List tables can have captions like this one.
+    :widths: 10 20 40 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Server Name
+      - Tenancy Usage
+      - Infrastructure Components
+      - Role Discreption
+    * - Proxy Server
+      - Shared
+      - ``(Ngnix)``
+      - Route the traffic from outside to inside and inside to inside 
+    * - API Gateway Server
+      - Shared
+      - ``Node`` ``WS02 Publisher`` ``WS02 Store`` ``WS02 API Manager``
+      - API Authentication and API Loadbalancing
+    * - Atlantis Dashboard Server
+      - Shared
+      - ``Ngnix`` ``Node`` ``xStreemFS``
+      - Web Server hosts Dashboard and Platform Server web applications
+    * - Atlantis Core Server
+      - Shared
+      - ``Node`` ``xStreemFS``
+      - Atlantis Core & Dashboard API's
+    * - Atlantis Citizen Server
+      - Tenant Specific
+      - ``Node``
+      - All the API's realated to citizen application
+    * - Atlantis Integration Server
+      - Shared (deploy per tenant)
+      - ``Node`` ``Tomcat``
+      - Integration engine web application and middleware apis
+    * - ElasticSearch DB Server
+      - Shared
+      - ``ElasticSearch 6.3`` 
+      - Atlantis Entity, Metrics, Application Database
+    * - WS02 Database Server
+      - Shared
+      - ``PostgressDB 9.5`` 
+      - Database required to store IAM and WS02 metadata
+    * - Central Log Monintoring Server
+      - Shared
+      - ``Logstash 9.5`` ``Kibana 9.5`` 
+      - Server to process logs and visualize the log stats and logs 
+    * - Atlantis Automation Server (Entity Engine)
+      - Tenant
+      - ``Kafka`` ``WS02 Stream Processor`` ``Node`` ``Zookeeper`` ``Redis``
+      - primary server to process device data & events, SOP processing and primary provider of device (entity) API
+    * - Atlantis Datapiple Server (Abstraction Layer + IE 2.0)
+      - Shared (deploy per tenant)
+      - ``Node`` ``xStreemFS`` ``Redis``
+      - Primary Server responsible for all datapiple processing for visualization layer (Datasets) and Injection (Adapters) 
+    * - Atlantis Media Server
+      - Shared
+      - ``Kurento``
+      -  Media transcoding server converting RTSP streams to Webrtc streams for plugin-less web viewing of camera live streams
+    * - Atlantis Recommendation Core Server
+      - Shared (deploy per tenant)
+      - ``Flask`` ``Python 3.6`` ``Redis``
+      -  Responsible for training and providing recommendation engine API
+    * - Atlantis Recommendation Data Pipeline Server
+      - Shared (deploy per tenant)
+      - .. Attention:: Determine ??
+      -  Responsible for recommendation engine datapipeline
+
+
+.. Note:: The current version of Integeration engine would be deprecated by Atlantis 2.0 GA
+
 
 Base Operating System
 ---------------------
+
 OS Version: Ubuntu 16.04.4 LTS
+
 Hardening Rules: 
+
 Infastructure:
-a) xStreemFS
-b) chef client
-c) failto ban
+    a) xStreemFS
+    b) chef client
+    c) failto ban
 
 Images: 
-a) AMI Images (for BETA)
-b) VMWARE Image
-c) ISO
+    a) AMI Images (for BETA)
+    b) VMWARE Image
+    c) ISO
 
