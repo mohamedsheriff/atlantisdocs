@@ -49,6 +49,7 @@ The platform simplifies the key aspects related to the digital transformation of
    :maxdepth: 1
    :caption: Developer Documentation
 
+   AtlantisDSL 
    DeploymentArchitecture
 
 .. help-docs:
