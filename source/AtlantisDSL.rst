@@ -2,12 +2,8 @@
 Atlantis DSL
 ============
 
-========================
-Simple KPI Based Queries
-========================
-
-Scenario: Single KPI Metric Aggregate
-*************************************
+Simple field based aggregations
+*******************************
 
 Scenario: KPI Metric (i.e. Average NO2 sofar for all sensors):: 
 
@@ -60,11 +56,11 @@ Scenario: KPI Metric (i.e. Average NO2 sofar for all sensors)::
     }
     }
 
-=============================
+ 
 Timeseries based aggregations
-=============================
+*******************************
 
-Scenario 2: Daily Average of Multiple Metrics sofar::
+Scenario: Daily Average of Multiple Metrics sofar::
 
     GET /metrics/_search?filter_path=aggregations
         {

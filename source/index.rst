@@ -46,7 +46,7 @@ The platform simplifies the key aspects related to the digital transformation of
 .. _dev-docs:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Developer Documentation
 
    AtlantisDSL 
