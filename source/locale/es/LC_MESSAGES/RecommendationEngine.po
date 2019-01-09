@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Quantela Inc
+# This file is distributed under the same license as the Atlantis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Atlantis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-01 19:54+0530\n"
+"PO-Revision-Date: 2019-01-01 19:54+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/RecommendationEngine.rst:5
+msgid "Recommendation Engine"
+msgstr "Motor de recomendación"
+
+#: ../../source/RecommendationEngine.rst:7
+msgid ""
+"Atlantis Recommendation engine is a AI based platform for urban planner "
+"and decision makers. The platform provides over 65+ urban analytics as "
+"webservice with inbuilt training life cycle covering near realtime "
+"training, imputations and predictions."
+msgstr "El motor de recomendación de Atlantis es una plataforma basada en AI para planificadores urbanos y tomadores de decisiones. La plataforma ofrece más de 65 analíticas urbanas como servicio web con un ciclo de vida de entrenamiento incorporado que cubre el entrenamiento casi en tiempo real, imputaciones y predicciones."
+
+#: ../../source/RecommendationEngine.rst:11
+msgid "Urban Indicators"
+msgstr "Indicadores urbanos"
+
+#: ../../source/RecommendationEngine.rst:12
+msgid ""
+"Helps city planners to understand city at macrolevel and helps in aiding "
+"planning decisions. The models are based on analysis “Satellite” and "
+"“Drone” Imagery. Some of the key indicators are “urban vegetation”, "
+"“urban sprawl”, “underground water propensity”, “land use and land cover "
+"analysis”, “suitability analytics”"
+msgstr "Ayuda a los planificadores de la ciudad a comprender la ciudad a nivel macro y ayuda a ayudar en las decisiones de planificación. Los modelos se basan en el análisis de las imágenes "Satélite" y "Drone". Algunos de los indicadores clave son “vegetación urbana”, “expansión urbana”, “propensión al agua subterránea”, “análisis de uso y cobertura de la tierra”, “análisis de idoneidad”"
+
+#: ../../source/RecommendationEngine.rst:16
+msgid "Predictive Analytics"
+msgstr "Analítica predictiva"
+
+#: ../../source/RecommendationEngine.rst:17
+msgid ""
+"Use data from sensors, IT and open data sources to forecast and predict "
+"future state. Some key models are “Parking Occupancy Forecasting”, "
+"“Environment prediction”,“Smart bit fill level predictions”, “Traffic "
+"Congestion Predication”"
+msgstr "Utilice datos de sensores, TI y fuentes de datos abiertas para pronosticar y predecir el estado futuro. Algunos modelos clave son "Previsión de ocupación de estacionamiento", "Predicción del entorno", "Predicciones de nivel de relleno de bits inteligentes", "Predicción de congestión de tráfico""
+
+#: ../../source/RecommendationEngine.rst:21
+msgid "Prescriptive Analytics"
+msgstr "Analítica prescriptiva"
+
+#: ../../source/RecommendationEngine.rst:22
+msgid ""
+"The models recommend action to be taken for optimizing city operations. "
+"Some of the models are “optimized lighting policies”, “Traffic hotspot "
+"analysis”, “route optimizations”"
+msgstr "Los modelos recomiendan acciones para optimizar las operaciones de la ciudad. Algunos de los modelos son “políticas de iluminación optimizadas”, “análisis de puntos de acceso de tráfico”, “optimizaciones de ruta”"
+
+#: ../../source/RecommendationEngine.rst:26
+msgid "Resilient Analytics"
+msgstr "Analítica resiliente"
+
+#: ../../source/RecommendationEngine.rst:27
+msgid ""
+"The models provide potential impact areas and remedial options for urban "
+"resilience like Gas Leakage, Traffic jams, Traffic impact on environment"
+msgstr "Los modelos proporcionan áreas de impacto potencial y opciones correctivas para la resiliencia urbana como fugas de gas, atascos, impacto del tráfico en el medio ambiente"
+
+#: ../../source/RecommendationEngine.rst:31
+msgid "Video Analytics"
+msgstr "Video Analytics"
+
+#: ../../source/RecommendationEngine.rst:32
+msgid ""
+"The models identify safety, security, crowd & traffic incidents & metrics"
+" based on video imagery. Some of the models are “Number Plate "
+"Recognition”, “Intrusion detection”, “Traffic and crowd estimation”, "
+"“Suspicious object detection”, “Cleanliness detection”, “Vandalism "
+"detection”"
+msgstr "Los modelos identifican seguridad, seguridad, tráfico de multitudes y tráfico y métricas basadas en imágenes de video. Algunos de los modelos son “Reconocimiento de matrícula”, “Detección de intrusión”, “Tráfico y estimación de multitudes”, “Detección de objetos sospechosos”, “Detección de limpieza”, “Detección de vandalismo”"
+
+#: ../../source/RecommendationEngine.rst:36
+msgid "Text Analytics"
+msgstr "Analítica de texto"
+
+#: ../../source/RecommendationEngine.rst:37
+msgid ""
+"The models are used for classification, sentiment analysis and "
+"conversational interfaces . Some of the key models include citizen "
+"sentiment analysis, citizen grievances classification, social sentiment "
+"analysis and conversational chat interface to city data"
+msgstr "Los modelos se utilizan para la clasificación, el análisis de sentimientos y las interfaces de conversación. Algunos de los modelos clave incluyen el análisis del sentimiento ciudadano, la clasificación de las quejas de los ciudadanos, el análisis del sentimiento social y la interfaz de conversación conversacional a datos de la ciudad."
+

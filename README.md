@@ -1,29 +1,6 @@
----
-description: >-
-  Atlantis documentation is intended for the users and developers of the
-  Atlantis Platform.
----
+# Getting Started
 
-# Atlantis Documentation
+Our Documentation Center contains a complete set of documentation which will guide you along the Atlantis experience. Learn more about features, benefits and technical details so that you can make the most out of platform.
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
+The online help is divided in different sections, as
 

@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Quantela Inc
+# This file is distributed under the same license as the Atlantis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Atlantis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-01 19:54+0530\n"
+"PO-Revision-Date: 2019-01-01 19:54+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/AutomationEngine.rst:5
+msgid "Automation Engine"
+msgstr "Motor de automatización"
+
+#: ../../source/AutomationEngine.rst:7
+msgid ""
+"Atlantis automation engine  streamlines operations of urban "
+"infrastructure to enhance urban management through automation. The "
+"platform comprises various dev and integeration tools to simplify the "
+"data acquisation from various smartcity datasources like IOT Sensors, "
+"Opendata, GIS sources, governance IT systems, Operational systems (legacy"
+" systems like scada), Crowd sourced data, etc."
+msgstr "El motor de automatización de Atlantis agiliza las operaciones de infraestructura urbana para mejorar la gestión urbana a través de la automatización. La plataforma comprende varias herramientas de desarrollo e integración para simplificar la adquisición de datos de varias fuentes de datos de smartcity como IOT Sensors, Opendata, fuentes GIS, sistemas de TI de gobernanza, sistemas operativos (sistemas heredados como scada), datos de fuente de la multitud, etc."
+
+#: ../../source/AutomationEngine.rst:37
+msgid "Some of the core capabilities of Automation Engine are:-"
+msgstr "Algunas de las capacidades principales de Automation Engine son:"
+
+#: ../../source/AutomationEngine.rst:14
+msgid "Visualization Layer (Dashboard)"
+msgstr "Capa de visualización (Dashboard)"
+
+#: ../../source/AutomationEngine.rst:11
+msgid "Flexible dasboard"
+msgstr "Dasboard flexible"
+
+#: ../../source/AutomationEngine.rst:12
+msgid "multiple and configurable widgets for operatoinal and BI reports"
+msgstr "Widgets múltiples y configurables para informes operativos y de BI."
+
+#: ../../source/AutomationEngine.rst:13
+msgid ""
+"Geo spatial visualization with ability to integerate with city's GIS "
+"datasources"
+msgstr "Visualización geoespacial con capacidad de integración con las fuentes de datos GIS de la ciudad"
+
+#: ../../source/AutomationEngine.rst:14
+msgid "Videowall for to view city's live camera feeds"
+msgstr "Videowall para ver las transmisiones de cámaras en vivo de la ciudad."
+
+#: ../../source/AutomationEngine.rst:15
+msgid "locationalization and personalization capabilities"
+msgstr "Capacidades de localización y personalización."
+
+#: ../../source/AutomationEngine.rst:18
+msgid "Data & Process Orchestration Layer"
+msgstr "Capa de orquestación de datos y procesos"
+
+#: ../../source/AutomationEngine.rst:17
+msgid "Data integration adatpers for data acquisation"
+msgstr "Adatpers de integración de datos para la adquisición de datos"
+
+#: ../../source/AutomationEngine.rst:18
+msgid "Data preparation pipeline for visualization"
+msgstr "Pipeline de preparación de datos para visualización."
+
+#: ../../source/AutomationEngine.rst:19
+msgid "Complex event processing for standard operating procedure automation (SOP)"
+msgstr "Procesamiento de eventos complejos para la automatización de procedimientos operativos estándar (SOP)"
+
+#: ../../source/AutomationEngine.rst:21
+msgid "Administration"
+msgstr "Administración"
+
+#: ../../source/AutomationEngine.rst:21
+msgid "User management"
+msgstr "Gestión de usuarios"
+
+#: ../../source/AutomationEngine.rst:22
+msgid "flexible role based access control system"
+msgstr "Sistema flexible de control de acceso basado en roles."
+
+#: ../../source/AutomationEngine.rst:23
+msgid "Media Encoding"
+msgstr "Codificación de medios"
+
+#: ../../source/AutomationEngine.rst:24
+msgid ""
+"encode realtime enconding for rtsp steams to webrtc stream to pluginless "
+"video display"
+msgstr "codifique en tiempo real para rtsp steams a webrtc stream a pluginless video display"
+
+#: ../../source/AutomationEngine.rst:27
+msgid "Data platform"
+msgstr "Plataforma de datos"
+
+#: ../../source/AutomationEngine.rst:26
+msgid "Flexible data platform for metric aggregation"
+msgstr "Plataforma de datos flexible para la agregación métrica."
+
+#: ../../source/AutomationEngine.rst:27
+msgid "Stream & CEP processing for realtime analytics"
+msgstr "Procesamiento Stream & CEP para análisis en tiempo real"
+
+#: ../../source/AutomationEngine.rst:28
+msgid "Metric aggregation for fast access"
+msgstr "Agregación métrica para acceso rápido"
+
+#: ../../source/AutomationEngine.rst:31
+msgid "Platform management"
+msgstr "Gestion de la plataforma"
+
+#: ../../source/AutomationEngine.rst:30
+msgid "tenancy management"
+msgstr "gestión de tenencia"
+
+#: ../../source/AutomationEngine.rst:31
+msgid "site managment"
+msgstr "gestión del sitio"
+
+#: ../../source/AutomationEngine.rst:32
+msgid "elastic deployment capabilities"
+msgstr "capacidades de despliegue elástico"
+
+#: ../../source/AutomationEngine.rst:34
+msgid "Centralized logging and telementry"
+msgstr "Registro centralizado y telemetría."
+
+#: ../../source/AutomationEngine.rst:34
+msgid "Centrailzied logging and telementric collection"
+msgstr "Centrailzied de registro y recogida telemétrica."
+
+#: ../../source/AutomationEngine.rst:35
+msgid "Log visualization and analysis using ELK"
+msgstr "Visualización de registro y análisis utilizando ELK."
+
+#: ../../source/AutomationEngine.rst:37
+msgid "Field management"
+msgstr "Gestión de campo"
+
+#: ../../source/AutomationEngine.rst:37
+msgid "mobile application to view realtime events"
+msgstr "Aplicación móvil para ver eventos en tiempo real."
+
+#: ../../source/AutomationEngine.rst:38
+msgid "task management"
+msgstr "administración de tareas"
+

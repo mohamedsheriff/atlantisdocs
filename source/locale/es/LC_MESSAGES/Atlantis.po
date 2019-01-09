@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Quantela Inc
+# This file is distributed under the same license as the Atlantis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Atlantis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-01 19:54+0530\n"
+"PO-Revision-Date: 2019-01-01 19:54+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.2\n"
+
+#: ../../source/Atlantis.rst:5
+msgid "Atlantis"
+msgstr "Atlantis"
+
+#: ../../source/Atlantis.rst:7
+msgid ""
+"Atlantis is Quantela's flagship “Urban infrastructure decision” platform "
+"to simplify the key aspects digital transformation of cities."
+msgstr ""
+"Atlantis es la plataforma emblemática de Quantela “Decisión de "
+"infraestructura urbana” para simplificar los aspectos clave de "
+"transformación digital de las ciudades"
+
+#: ../../source/Atlantis.rst:9
+msgid ""
+"Connect and harvest the data from multiple digital assets like IOT "
+"Sensors, IT, OT (Scada) and opendata into the city data platform"
+msgstr ""
+"Conecte y coseche los datos de múltiples activos digitales como IOT "
+"Sensors, IT, OT (Scada) y datos abiertos en la plataforma de datos de la "
+"ciudad"
+
+#: ../../source/Atlantis.rst:10
+msgid ""
+"Use informational insights to drive city operations in an autonomous "
+"fashion using :ref:`Automation Engine`  and :ref:`Recommendation Engine`"
+msgstr ""
+"Utilice información informativa para impulsar las operaciones de la "
+"ciudad de manera autónoma utilizando: ref: `Automation Engine` y: ref:` "
+"Recommendation Engine`"
+
+#: ../../source/Atlantis.rst:11
+msgid "Measure and track key operational and performance metrics"
+msgstr ""
+"Medir y realizar un seguimiento de las métricas operativas y de "
+"rendimiento clave"
+
+#: ../../source/Atlantis.rst:12
+msgid ""
+"Provides recommendations and insights to help in better urban planning, "
+"improving the efficiency & effectiveness of the urban operations while "
+"reducing the operational costs"
+msgstr ""
+"Proporciona recomendaciones y perspectivas para ayudar en una mejor "
+"planificación urbana, mejorando la eficiencia y efectividad de las "
+"operaciones urbanas reduciendo los costos operacionales"
+
+#: ../../source/Atlantis.rst:13
+msgid ""
+"Engage citizen feedback and make urban services more accessible to "
+"citizens"
+msgstr ""
+"Atraer la retroalimentación ciudadana y hacer que los servicios urbanos "
+"sean más accesibles para los ciudadanos"

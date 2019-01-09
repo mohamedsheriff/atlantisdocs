@@ -1,0 +1,16 @@
+build
+source/.vscode/settings.json
+build/gettext/.doctrees/Atlantis.doctree
+build/gettext/.doctrees/AutomationEngine.doctree
+build/gettext/.doctrees/environment.pickle
+build/gettext/.doctrees/index.doctree
+build/gettext/.doctrees/RecommendationEngine.doctree
+build/gettext/Atlantis.pot
+build/gettext/AutomationEngine.pot
+build/gettext/index.pot
+build/gettext/RecommendationEngine.pot
+build/doctrees/Atlantis.doctree
+*.mo
+source/locale/de/LC_MESSAGES/index.html
+*.mo
+*.dict
