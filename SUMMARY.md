@@ -12,4 +12,3 @@
 ## User Manual
 
 * [Features](user-manual/features.md)
-
