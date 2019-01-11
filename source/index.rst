@@ -1,5 +1,5 @@
 ***********************
-Atlantis: Documentation - Test Edit
+Atlantis: Documentation
 ***********************
 :ref:`Atlantis` documentation is intended for the users and developers of the Atlantis Platform.
 
@@ -39,9 +39,21 @@ The platform simplifies the key aspects related to the digital transformation of
    :hidden:
    :caption: Getting Started
 
-   Atlantis
-   AutomationEngine
-   RecommendationEngine
+   About Atlantis <Atlantis>
+   Overview
+
+.. toctree::
+   :maxdepth: 3
+   :hidden:
+   :caption: Getting Started
+
+   Platform Management
+   Data Preparation
+   Automation Orchestration
+   Dashboard Management
+   Field Officer Application
+   Release Notes
+
 
 .. _dev-docs:
 
@@ -60,4 +72,3 @@ The platform simplifies the key aspects related to the digital transformation of
 
    ReSTTablesList
    RTD Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
-mahesh changes
