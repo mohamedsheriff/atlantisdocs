@@ -1,3 +1,5 @@
+.. _AtlantisDSL:
+
 ============
 Atlantis DSL
 ============
@@ -7,53 +9,21 @@ Simple field based aggregations
 
 Scenario: KPI Metric (i.e. Average NO2 sofar for all sensors):: 
 
+    GET /metrics/_search
     {
     "aggs": {
-        "1": {
+        "average_agg": {
         "avg": {
             "field": "metric_value"
         }
         }
-    },
-    "size": 0,
-    "_source": {
-        "excludes": []
-    },
-    "stored_fields": [
-        "*"
-    ],
-    "script_fields": {},
-    "docvalue_fields": [
-        {
-        "field": "timestamp",
-        "format": "date_time"
-        }
-    ],
+    }, 
     "query": {
-        "bool": {
-        "must": [
-            {
-            "bool": {
-                "should": [
-                {
-                    "match_phrase": {
-                    "metric": "AQI"
-                    }
-                }
-                ],
-                "minimum_should_match": 1
-            }
-            }
-        ],
-        "filter": [
-            {
-            "match_all": {}
-            }
-        ],
-        "should": [],
-        "must_not": []
+        "match": {
+        "metric": "NO2"
         }
-    }
+    },
+    "size": 0
     }
 
  
