@@ -14,3 +14,8 @@ build/doctrees/Atlantis.doctree
 source/locale/de/LC_MESSAGES/index.html
 *.mo
 *.dict
+source/_build
+source/_template
+source/_static
+source/config
+
